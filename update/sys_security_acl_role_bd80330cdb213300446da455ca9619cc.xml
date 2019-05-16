@@ -1,0 +1,19 @@
+<?xml version="1.0" encoding="UTF-8"?><record_update table="sys_security_acl_role">
+    <sys_security_acl_role action="INSERT_OR_UPDATE">
+        <sys_class_name>sys_security_acl_role</sys_class_name>
+        <sys_created_by>admin</sys_created_by>
+        <sys_created_on>2019-05-16 21:52:22</sys_created_on>
+        <sys_id>bd80330cdb213300446da455ca9619cc</sys_id>
+        <sys_mod_count>0</sys_mod_count>
+        <sys_name>x_160684_demo_cicd_ci_service.x_160684_demo_cicd.ci_service_user</sys_name>
+        <sys_package display_value="demo_cicd" source="x_160684_demo_cicd">ca207b04db213300446da455ca961935</sys_package>
+        <sys_policy/>
+        <sys_scope display_value="demo_cicd">ca207b04db213300446da455ca961935</sys_scope>
+        <sys_security_acl display_value="x_160684_demo_cicd_ci_service">bd80330cdb213300446da455ca9619c9</sys_security_acl>
+        <sys_update_name>sys_security_acl_role_bd80330cdb213300446da455ca9619cc</sys_update_name>
+        <sys_updated_by>admin</sys_updated_by>
+        <sys_updated_on>2019-05-16 21:52:22</sys_updated_on>
+        <sys_user_role display_value="x_160684_demo_cicd.ci_service_user" name="x_160684_demo_cicd.ci_service_user">6180330cdb213300446da455ca9619a0</sys_user_role>
+        <transaction_id/>
+    </sys_security_acl_role>
+</record_update>

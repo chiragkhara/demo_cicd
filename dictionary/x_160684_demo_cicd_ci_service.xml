@@ -1,0 +1,3 @@
+<?xml version="1.0" encoding="UTF-8"?><database>
+    <element label="CI Service" max_length="40" name="x_160684_demo_cicd_ci_service" type="collection"/>
+</database>
